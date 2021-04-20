@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![VoiceBeer's Github Stats](https://github-readme-stats.vercel.app/api?username=VoiceBeer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=songkuixi.songkuixi" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VoiceBeer.VoiceBeer" alt="visitor badge"/>
