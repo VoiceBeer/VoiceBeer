@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🏫 My research interests are in computer vision, deep learning, aBCI. (self-supervised learning, AI + medical, adversarial attack, self-attention in the future maybe) 
 - 🌱 I’m currently learning self-supervised learning, semi-supervised learning and adversarial attack
 - 📫 You can reach me by sending me an email
-- 🐈 My avatar is my cat called "Mi Mi", she's so pretty:>
+- 🐈 The avatar is my girl called "Mi Mi", she's such a pretty cat that I can't stop blinking at her slowly :>
 
 <!--
 [![VoiceBeer's Github Stats](https://github-readme-stats.vercel.app/api?username=VoiceBeer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
