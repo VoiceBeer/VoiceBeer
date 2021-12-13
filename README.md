@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 **I'm Hao Chen, you may also call me Chris or vb, vb is kinda like a pronoun of me, which is named by myself in high school.**
 
-- 🏫 My research interests are in machine learning, deep learning, BCI and affective computing. (self-supervised learning, AI + medical, adversarial attack, self-attention in the future maybe) 
-- 🌱 I’m currently learning self-supervised learning
+- 🏫 My research interests are in machine learning, deep learning
+- 🌱 I’m currently learning dozens of stuff
 - 📫 You can reach me by sending me an email
-- 🐈 The avatar is my girl called "Mi Mi", she's such a pretty cat that I can't stop blinking at her slowly :>
+- 🐈 The avatar is my pretty cat called "Mi Mi"
 - ⚡ Fun fact: friends always call me "ch" rather than "hc"
 
 <!--
