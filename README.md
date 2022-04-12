@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Hao Chen, Chris or vb. vb is kinda like a pronoun of me, which is named by myself in high school.**
+**I'm Hao Chen, Chris or vb. vb is kinda like a pronoun of me.**
 
 - 🏫 My research interests are in machine learning, deep learning
 - 🌱 I’m currently learning dozens of stuff
