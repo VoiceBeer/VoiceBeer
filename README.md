@@ -2,11 +2,10 @@
 
 **I'm Hao Chen, Chris or vb. vb is kinda like a pronoun of me.**
 
-- 🏫 My research interests are in machine learning, deep learning
-- 🌱 I’m currently learning dozens of stuff
+- 🏫 My research interests are in deep learning
+- 🌱 I’m currently learning dozens of stuff, including LLM (why not?lol)
 - 📫 You can reach me by sending me an email
 - 🐈 The avatar is my pretty cat called "Mi Mi"
-- ⚡ Fun fact: friends always call me "ch" rather than "hc"
 
 <!--
 [![VoiceBeer's Github Stats](https://github-readme-stats.vercel.app/api?username=VoiceBeer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
