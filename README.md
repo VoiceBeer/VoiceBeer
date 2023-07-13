@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Hao Chen, Chris, or vb. vb feels like a bit of a pronoun for me or a nickname I go by.**
+**I'm Hao Chen, Chris, or vb. vb is kinda like a pronoun for me or a nickname I go by.**
 
 - 🏫 My research interests are in artificial intelligence
 - 🌱 I’m currently pursuing a Ph.D., delving into a vast pool of stuff
